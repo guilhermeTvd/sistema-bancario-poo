@@ -14,9 +14,4 @@ Este projeto é uma simulação de um sistema bancário, desenvolvido para prati
   - Saques (com validação de saldo e limite)
 - **Histórico:** Registro de todas as operações realizadas em cada conta.
 
-## 🛠️ Como executar
-1. Certifique-se de ter o Python instalado.
-2. Clone o repositório ou baixe os arquivos.
-3. No terminal, execute o comando:
-   ```bash
-   python main.py
+
